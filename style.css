@@ -7,9 +7,6 @@ body {
   text-align: center;
 }
 
-
-
-
 img {
   height: auto;
   width: 100px;
@@ -54,5 +51,3 @@ a {
 a:hover {
   text-decoration: underline;
 }
-
-/*# sourceMappingURL=style.css.map */
